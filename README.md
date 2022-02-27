@@ -63,9 +63,7 @@
   <h2>Siga os passos</h2>
 
       - Execute, na pasta do projeto: yarn install
-      
-      - Para rodar em desenvolvimento, Execute: yarn dev 
-      
+            
       - Para rodar em implantação, Execute: yarn start 
   
   
