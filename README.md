@@ -29,7 +29,7 @@
       Github: https://github.com/fabiostenio/d1testback.git
 
     - Deploy da Aplicação
-
+      http://45.80.152.210:3000/
 
 
 <h1>INSTALAÇÃO</h1>
@@ -70,4 +70,6 @@
   
   
 <h1>EXEMPLO EM EXECUÇÃO</h1>
+
+    http://45.80.152.210:3000/
   
